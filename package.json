@@ -32,8 +32,8 @@
     "lodash.throttle": "^4.1.1"
   },
   "peerDependencies": {
-    "react": "16.7.0-alpha.0",
-    "react-dom": "16.7.0-alpha.0"
+    "react": "^16.7.0-alpha.0",
+    "react-dom": "^16.7.0-alpha.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.1.2",
